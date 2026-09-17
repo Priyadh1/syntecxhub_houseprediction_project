@@ -1,0 +1,1 @@
+# syntecxhub_houseprediction_project
