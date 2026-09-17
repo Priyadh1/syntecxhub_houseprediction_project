@@ -1,6 +1,7 @@
-## 📌 Project Overview
 🔗 Streamlit App:
 https://priyadharshinisyntecxapphouseprediction-qn6nzwga6ahtk2maxj9bzm.streamlit.app/
+## 📌 Project Overview
+
 **Smart House Price Prediction using Multiple Linear Regression** is a machine learning project that predicts the estimated price of a house based on its property details.
 
 The model uses features such as:
